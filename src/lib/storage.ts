@@ -5,7 +5,9 @@ import path from "node:path";
 export const BUILTIN_SETS_DIR = path.join(process.cwd(), "content", "sets");
 
 /** Generated sets and audio. Point DATA_DIR at a persistent volume in production. */
-export const DATA_DIR = path.resolve(process.env.DATA_DIR ?? path.join(process.cwd(), "data"));
+export const DATA_DIR = path.resolve(
+  /* turbopackIgnore: true */ process.env.DATA_DIR ?? path.join(process.cwd(), "data"),
+);
 
 export function generatedSetsDir(level: string): string {
   return path.join(DATA_DIR, "sets", level);

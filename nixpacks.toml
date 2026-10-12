@@ -1,0 +1,16 @@
+# Nixpacks configuration for Railway deployment
+# See: https://nixpacks.com/docs/configuration/file
+
+[phases.setup]
+# Install ffmpeg as a system package for audio generation fallback
+nixPkgs = ["ffmpeg"]
+
+[phases.install]
+# Allow optional dependency install failures (ffmpeg-static binary download)
+cmds = ["npm ci --ignore-optional || npm ci"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm start"
