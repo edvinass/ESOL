@@ -1,0 +1,629 @@
+{
+  "id": "b2-set-1",
+  "level": "b2",
+  "title": "B2 Practice Set 1",
+  "listening": [
+    {
+      "part": 1,
+      "instructions": "You will hear seven short unfinished conversations. You will hear each conversation twice. Choose the best way to continue each conversation.",
+      "groups": [
+        {
+          "id": "l1-1",
+          "audio": {
+            "id": "l1-1",
+            "segments": [
+              { "speaker": "Man", "text": "Did you ever get your deposit back from your old flat?" },
+              { "speaker": "Woman", "text": "Only half of it. The landlord claimed the carpet needed professional cleaning, which is ridiculous, because it was already stained when I moved in." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-1",
+              "kind": "choice",
+              "prompt": "What does the man say next?",
+              "options": [
+                "Did you take any photos when you moved in? They could help you.",
+                "That's very generous of him, considering the state of it.",
+                "I'm glad you enjoyed living there so much."
+              ],
+              "answer": 0,
+              "explanation": "The woman is complaining about an unfair charge. Asking about photos as evidence is a helpful, logical reply."
+            }
+          ]
+        },
+        {
+          "id": "l1-2",
+          "audio": {
+            "id": "l1-2",
+            "segments": [
+              { "speaker": "Woman", "text": "Excuse me, I'm afraid this table is reserved from eight o'clock." },
+              { "speaker": "Man", "text": "Oh, sorry, nobody mentioned that when we sat down. We've only just ordered our starters." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-2",
+              "kind": "choice",
+              "prompt": "What does the woman say next?",
+              "options": [
+                "Yes, the starters are very popular here.",
+                "Don't worry, you're welcome to stay until then.",
+                "Then I'll need you to pay for the reservation."
+              ],
+              "answer": 1,
+              "explanation": "She reassures the customers that they have time before eight. Option A ignores the problem and option C makes no sense."
+            }
+          ]
+        },
+        {
+          "id": "l1-3",
+          "audio": {
+            "id": "l1-3",
+            "segments": [
+              { "speaker": "Man", "text": "Good morning, Harlow and Price Solicitors. How may I help you?" },
+              { "speaker": "Woman", "text": "Good morning. I'd like to arrange a meeting with Ms Harlow regarding my late father's will." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-3",
+              "kind": "choice",
+              "prompt": "What does the man say next?",
+              "options": [
+                "Oh dear, I didn't realise he was ill.",
+                "To be honest, she's terrible at returning calls.",
+                "Certainly. Could I take your name and a contact number?"
+              ],
+              "answer": 2,
+              "explanation": "This is a formal phone call to an office. The receptionist politely asks for her details."
+            }
+          ]
+        },
+        {
+          "id": "l1-4",
+          "audio": {
+            "id": "l1-4",
+            "segments": [
+              { "speaker": "Woman", "text": "I can't believe the match has been called off again." },
+              { "speaker": "Man", "text": "Apparently the pitch is waterlogged. That's the third time this month." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-4",
+              "kind": "choice",
+              "prompt": "What does the woman say next?",
+              "options": [
+                "Typical. Maybe the club should spend some money on drainage.",
+                "Great, I'll see you there at three, then.",
+                "I didn't know you'd started playing again."
+              ],
+              "answer": 0,
+              "explanation": "She is frustrated that the match was cancelled because of rain, so a comment about drainage follows naturally."
+            }
+          ]
+        },
+        {
+          "id": "l1-5",
+          "audio": {
+            "id": "l1-5",
+            "segments": [
+              { "speaker": "Man", "text": "Have you finished the report for Thursday's meeting?" },
+              { "speaker": "Woman", "text": "Nearly. I still need the sales figures from Marco, and he's off sick all week." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-5",
+              "kind": "choice",
+              "prompt": "What does the man say next?",
+              "options": [
+                "So you've already sent it to the client?",
+                "Why don't you ask his manager if she has a copy?",
+                "I hope he's enjoying his holiday."
+              ],
+              "answer": 1,
+              "explanation": "The man offers a practical solution to the missing figures. Marco is sick, not on holiday."
+            }
+          ]
+        },
+        {
+          "id": "l1-6",
+          "audio": {
+            "id": "l1-6",
+            "segments": [
+              { "speaker": "Woman", "text": "You look exhausted. Are you all right?" },
+              { "speaker": "Man", "text": "Not really. The neighbours' baby was crying until about four this morning." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-6",
+              "kind": "choice",
+              "prompt": "What does the woman say next?",
+              "options": [
+                "That's lucky. You must feel really refreshed.",
+                "I had no idea you had a baby.",
+                "Oh no. Have you thought about getting some earplugs?"
+              ],
+              "answer": 2,
+              "explanation": "She sympathises and offers advice. The baby belongs to the neighbours, so option B is wrong."
+            }
+          ]
+        },
+        {
+          "id": "l1-7",
+          "audio": {
+            "id": "l1-7",
+            "segments": [
+              { "speaker": "Man", "text": "I'm thinking of signing up for that evening photography course." },
+              { "speaker": "Woman", "text": "Really? I thought you said you didn't have time for hobbies any more." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l1-7",
+              "kind": "choice",
+              "prompt": "What does the man say next?",
+              "options": [
+                "I know, but I've decided I need something just for me.",
+                "You're right, I'll lend you my camera then.",
+                "No, I've never heard of that course."
+              ],
+              "answer": 0,
+              "explanation": "He responds to her surprise by explaining why he has changed his mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "instructions": "You will hear three conversations. You will hear each conversation twice. Answer two questions about each conversation.",
+      "groups": [
+        {
+          "id": "l2-1",
+          "title": "Conversation 1",
+          "audio": {
+            "id": "l2-1",
+            "segments": [
+              { "speaker": "Man", "text": "Have you seen the plans for the new office? No more desks of our own. Everyone just sits wherever there's space." },
+              { "speaker": "Woman", "text": "I've seen them. I'm trying to stay positive, but I really don't know how I'm going to concentrate. I spend half my day on the phone to suppliers, and the other half writing contracts. I need quiet for that." },
+              { "speaker": "Man", "text": "There are going to be those small meeting rooms along the side, though. The ones with glass walls." },
+              { "speaker": "Woman", "text": "Six rooms for eighty people? They'll be booked for weeks in advance." },
+              { "speaker": "Man", "text": "Well, why not raise it at the staff meeting on Friday? If enough people say the same thing, they might set some rooms aside for focused work." },
+              { "speaker": "Woman", "text": "Maybe. I'd rather do that than just sit and complain about it." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l2-1",
+              "kind": "choice",
+              "prompt": "How does the woman feel about the new office?",
+              "options": [
+                "She is excited about sitting with different colleagues.",
+                "She is worried she won't be able to work properly.",
+                "She doesn't mind because she is rarely in the office."
+              ],
+              "answer": 1,
+              "explanation": "She says she doesn't know how she will concentrate and needs quiet for her work."
+            },
+            {
+              "id": "b2s1-l2-2",
+              "kind": "choice",
+              "prompt": "What does the man suggest?",
+              "options": [
+                "Booking a meeting room weeks in advance.",
+                "Asking to work from home on Fridays.",
+                "Bringing up the problem at a meeting."
+              ],
+              "answer": 2,
+              "explanation": "He suggests she raises it at the staff meeting on Friday."
+            }
+          ]
+        },
+        {
+          "id": "l2-2",
+          "title": "Conversation 2",
+          "audio": {
+            "id": "l2-2",
+            "segments": [
+              { "speaker": "Woman", "text": "Hi, I bought this coffee machine here about a month ago, and it's stopped heating the water properly." },
+              { "speaker": "Man", "text": "I'm sorry to hear that. Do you have the receipt with you?" },
+              { "speaker": "Woman", "text": "That's the thing. I think I threw it away with the box. But I paid by card, if that helps." },
+              { "speaker": "Man", "text": "It might. Without a receipt I can't give you your money back, I'm afraid, but if I can find the payment on our system, I can offer you a replacement or credit to spend in the store." },
+              { "speaker": "Woman", "text": "Honestly, I'd rather not have the same model again. Credit would be fine." },
+              { "speaker": "Man", "text": "No problem. If you could just pop your card in the machine, I'll look up the transaction." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l2-3",
+              "kind": "choice",
+              "prompt": "What is the woman's problem?",
+              "options": [
+                "She cannot prove when she bought the machine.",
+                "She was charged twice for the machine.",
+                "She was sold the wrong model."
+              ],
+              "answer": 0,
+              "explanation": "She threw away the receipt, so the assistant needs to find the payment another way."
+            },
+            {
+              "id": "b2s1-l2-4",
+              "kind": "choice",
+              "prompt": "What does the woman decide to accept?",
+              "options": [
+                "A full refund to her card.",
+                "Credit to use in the shop.",
+                "An identical replacement."
+              ],
+              "answer": 1,
+              "explanation": "A refund is not possible without a receipt, and she says she would rather not have the same model."
+            }
+          ]
+        },
+        {
+          "id": "l2-3",
+          "title": "Conversation 3",
+          "audio": {
+            "id": "l2-3",
+            "segments": [
+              { "speaker": "Man", "text": "Mum, have you got a minute? I wanted to tell you before I tell anyone else. They've offered me the job in Lisbon." },
+              { "speaker": "Woman", "text": "Oh, that's wonderful news! You sound worried, though." },
+              { "speaker": "Man", "text": "I am a bit. It's a two-year contract, and I don't speak a word of Portuguese. And I'd be leaving everyone here." },
+              { "speaker": "Woman", "text": "Listen, when your father and I were your age, we turned down a move to Canada because we were scared. We've always wondered what would have happened. Two years isn't forever. You can always come back." },
+              { "speaker": "Man", "text": "So you think I should take it?" },
+              { "speaker": "Woman", "text": "I think you'd regret it if you didn't. And it gives me a good excuse to visit Lisbon." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l2-5",
+              "kind": "choice",
+              "prompt": "Why is the man calling?",
+              "options": [
+                "To ask for help learning Portuguese.",
+                "To share some news and ask for advice.",
+                "To invite his mother to visit him."
+              ],
+              "answer": 1,
+              "explanation": "He tells her about the job offer and asks whether he should take it."
+            },
+            {
+              "id": "b2s1-l2-6",
+              "kind": "choice",
+              "prompt": "Why does the woman mention Canada?",
+              "options": [
+                "To show that she understands his fear of regret.",
+                "To suggest a better place for him to work.",
+                "To explain why his father lives abroad."
+              ],
+              "answer": 0,
+              "explanation": "She uses her own experience of turning down a move to encourage him not to make the same choice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "instructions": "You will hear part of a local radio programme. You will hear it twice. Complete the notes on the message pad. Write a word, number or short phrase for each heading.",
+      "groups": [
+        {
+          "id": "l3-1",
+          "title": "Millbrook Repair Café",
+          "audio": {
+            "id": "l3-1",
+            "segments": [
+              { "speaker": "Presenter", "text": "Now, if you've ever thrown away a toaster just because one small part stopped working, this next story is for you. The Millbrook Repair Café opened last spring, and it's been so popular that it now runs on the first Saturday of every month, from ten until two." },
+              { "speaker": "Presenter", "text": "It started in the public library, but that soon became far too small, so it has moved to the old fire station on Bridge Street. There's plenty of room there, and parking at the back." },
+              { "speaker": "Presenter", "text": "Volunteers will look at almost anything, from bicycles to clocks. I assumed the most common item would be mobile phones, but the organisers tell me that last year it was actually vacuum cleaners. Apparently they're simple to fix once you know how." },
+              { "speaker": "Presenter", "text": "Repairs are free, although visitors are asked to make a donation of around three pounds to help pay for spare parts." },
+              { "speaker": "Presenter", "text": "There are currently twenty-four volunteers, and the café is always looking for more. In particular, they need people who are good at sewing, because there's a long waiting list for clothing repairs." },
+              { "speaker": "Presenter", "text": "If you'd like to bring something along, you'll need to book a slot on the website at least a week in advance. Drop-ins are no longer possible, I'm afraid." },
+              { "speaker": "Presenter", "text": "And the results speak for themselves. Last year the café kept nearly two tonnes of household goods out of landfill. Not bad for a few hours a month." }
+            ]
+          },
+          "questions": [
+            { "id": "b2s1-l3-1", "kind": "text", "prompt": "When it takes place: the ______ of every month", "accepted": ["first Saturday", "1st Saturday", "the first Saturday"] },
+            { "id": "b2s1-l3-2", "kind": "text", "prompt": "Venue:", "accepted": ["old fire station", "the old fire station", "fire station", "old fire station Bridge Street", "the old fire station on Bridge Street", "Bridge Street"] },
+            { "id": "b2s1-l3-3", "kind": "text", "prompt": "Item repaired most often last year:", "accepted": ["vacuum cleaners", "vacuum cleaner", "vacuums", "hoovers"] },
+            { "id": "b2s1-l3-4", "kind": "text", "prompt": "Suggested donation:", "accepted": ["£3", "3 pounds", "three pounds", "£3.00", "around £3", "about £3"] },
+            { "id": "b2s1-l3-5", "kind": "text", "prompt": "Skill most needed in new volunteers:", "accepted": ["sewing", "sew"] },
+            { "id": "b2s1-l3-6", "kind": "text", "prompt": "Book online at least:", "accepted": ["a week in advance", "a week", "one week", "1 week", "7 days", "seven days", "a week before"] },
+            { "id": "b2s1-l3-7", "kind": "text", "prompt": "Kept out of landfill last year:", "accepted": ["two tonnes", "2 tonnes", "nearly two tonnes", "nearly 2 tonnes", "2 tons", "two tons"] }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "instructions": "You will hear a conversation between two friends, Tom and Lena, about Lena's company. You will hear it twice. Choose the correct answer for each question.",
+      "groups": [
+        {
+          "id": "l4-1",
+          "audio": {
+            "id": "l4-1",
+            "voices": { "Tom": "male", "Lena": "female" },
+            "segments": [
+              { "speaker": "Tom", "text": "So, six months into the four-day week. Are you going to keep it?" },
+              { "speaker": "Lena", "text": "I think so, yes, although it wasn't the smooth ride I expected. The first month was chaotic. Clients kept emailing on Fridays and expecting answers straight away." },
+              { "speaker": "Tom", "text": "How did you get round that?" },
+              { "speaker": "Lena", "text": "We split the team, so two people cover Fridays and take Mondays off instead. It sounds obvious now, but it took us a while to realise that a four-day week doesn't mean everyone has the same day off." },
+              { "speaker": "Tom", "text": "And productivity? That's what everyone asks about." },
+              { "speaker": "Lena", "text": "Honestly, the amount of work we produce is about the same. What's changed is how we work. Meetings were the first thing to go. We used to have a two-hour planning meeting every Monday. Now it's twenty minutes, and we do it standing up." },
+              { "speaker": "Tom", "text": "I'd have thought people would be more stressed, squeezing five days into four." },
+              { "speaker": "Lena", "text": "That was my biggest worry before we started. And a couple of people did struggle at first. But sick days have dropped by almost half, and nobody has left the company this year, which in our industry is unusual." },
+              { "speaker": "Tom", "text": "So it's really about keeping staff." },
+              { "speaker": "Lena", "text": "Partly. Recruiting a good designer costs us a fortune, so if people stay, that's a huge saving. But I'd be lying if I said it was purely about money. I wanted a business I'd actually enjoy running." },
+              { "speaker": "Tom", "text": "Would you recommend it to other companies?" },
+              { "speaker": "Lena", "text": "Not to everyone. If your work depends on being available to customers all day, every day, like a shop, it's much harder. And you have to trust your staff. If a manager feels the need to check what people are doing every hour, it simply won't work." },
+              { "speaker": "Tom", "text": "You make it sound like it's more about management than about hours." },
+              { "speaker": "Lena", "text": "That's exactly it. Changing the hours just showed us habits we should have dropped years ago." }
+            ]
+          },
+          "questions": [
+            {
+              "id": "b2s1-l4-1",
+              "kind": "choice",
+              "prompt": "What problem did Lena's company have at the start?",
+              "options": [
+                "Clients expected replies on Fridays.",
+                "Staff refused to work on Mondays.",
+                "The team did not have enough work."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "b2s1-l4-2",
+              "kind": "choice",
+              "prompt": "How did the company solve this problem?",
+              "options": [
+                "By employing extra staff for Fridays.",
+                "By closing on Mondays instead of Fridays.",
+                "By giving people different days off."
+              ],
+              "answer": 2
+            },
+            {
+              "id": "b2s1-l4-3",
+              "kind": "choice",
+              "prompt": "What does Lena say about meetings?",
+              "options": [
+                "They have become much shorter.",
+                "They now take place on Fridays.",
+                "They have been replaced by emails."
+              ],
+              "answer": 0
+            },
+            {
+              "id": "b2s1-l4-4",
+              "kind": "choice",
+              "prompt": "What was Lena most worried about before the trial?",
+              "options": [
+                "Losing important clients.",
+                "Staff becoming more stressed.",
+                "Producing less work."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "b2s1-l4-5",
+              "kind": "choice",
+              "prompt": "According to Lena, how has the four-day week saved the company money?",
+              "options": [
+                "The office costs less to run.",
+                "Fewer people are leaving.",
+                "Designers are paid for fewer hours."
+              ],
+              "answer": 1
+            },
+            {
+              "id": "b2s1-l4-6",
+              "kind": "choice",
+              "prompt": "What is Lena's main point at the end?",
+              "options": [
+                "Shorter hours work well in any type of business.",
+                "Managers should check their staff's work more often.",
+                "Success depends mainly on how a company is managed."
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "part": 1,
+      "instructions": "Read the article and answer the questions. Choose the correct answer for each question.",
+      "passage": "The return of the night train\n\nFor most of the last thirty years, Europe's sleeper trains seemed to be heading for the museum. Cheap flights had made the overnight journey look slow and old-fashioned, and one by one, national rail companies cancelled routes that were losing money. By 2016, even the famous service between Paris and the Italian border had disappeared.\n\nToday the picture looks very different. New routes have opened between cities such as Brussels and Berlin, Vienna and Amsterdam, and Zurich and Rome. Several of them sell out weeks in advance during the summer. So what has changed?\n\nThe most obvious answer is climate anxiety. A passenger travelling from Vienna to Paris by train produces a fraction of the carbon emissions of the same trip by plane, and a growing number of travellers say this matters to them. Yet operators are careful not to rely on good intentions alone. 'People may choose the train once to feel virtuous,' says Clara Weiss, who manages one of the new services. 'They come back because it is genuinely convenient.'\n\nConvenience, in this case, is about time rather than speed. A flight from Brussels to Berlin takes just over an hour, but once you add the journey to the airport, security checks and the trip into the city at the other end, the total is closer to five. The night train takes eleven hours, but the passenger boards in the city centre after dinner and arrives in the morning, having slept for most of the journey. Many business travellers also point out that it saves them the cost of a hotel.\n\nThere are still serious obstacles. Sleeping cars are expensive to build and can only make one trip per day, so tickets are rarely as cheap as budget flights. Each country charges its own fees for using its tracks, and some routes cross four or five borders. Several operators have also struggled with old carriages which break down, leading to delays and angry reviews.\n\nWeiss is nevertheless optimistic. She believes governments will eventually have to make rail travel cheaper compared with flying, whether through taxes on aviation fuel or support for rail companies. 'We are not trying to replace every flight,' she says. 'But for journeys of up to about a thousand kilometres, we think the train should be the natural choice. We are not there yet, but ten years ago nobody was even asking the question.'",
+      "groups": [
+        {
+          "id": "r1-1",
+          "questions": [
+            {
+              "id": "b2s1-r1-1",
+              "kind": "choice",
+              "prompt": "What does the writer say about night trains before 2016?",
+              "options": [
+                "Their number was gradually falling.",
+                "They were more popular than flights.",
+                "They were mainly used by tourists."
+              ],
+              "answer": 0,
+              "explanation": "'One by one, national rail companies cancelled routes that were losing money.'"
+            },
+            {
+              "id": "b2s1-r1-2",
+              "kind": "choice",
+              "prompt": "According to Clara Weiss, why do passengers continue to use night trains?",
+              "options": [
+                "They want to reduce their carbon emissions.",
+                "They find the service practical.",
+                "They enjoy the experience of travelling slowly."
+              ],
+              "answer": 1,
+              "explanation": "She says people may try it once to feel virtuous but 'come back because it is genuinely convenient'."
+            },
+            {
+              "id": "b2s1-r1-3",
+              "kind": "choice",
+              "prompt": "What point does the writer make about the Brussels to Berlin journey?",
+              "options": [
+                "The flight is much quicker overall than people think.",
+                "The night train is faster than flying.",
+                "The real difference in journey time is smaller than it seems."
+              ],
+              "answer": 2,
+              "explanation": "With travel to and from airports the flight takes close to five hours, and the train journey is mostly spent asleep."
+            },
+            {
+              "id": "b2s1-r1-4",
+              "kind": "choice",
+              "prompt": "Why are night train tickets often expensive?",
+              "options": [
+                "The trains cannot be used many times a day.",
+                "Passengers expect a high level of comfort.",
+                "Rail companies pay high taxes on fuel."
+              ],
+              "answer": 0,
+              "explanation": "'Sleeping cars are expensive to build and can only make one trip per day.'"
+            },
+            {
+              "id": "b2s1-r1-5",
+              "kind": "choice",
+              "prompt": "What problem have some operators had?",
+              "options": [
+                "Customers complaining about noise.",
+                "Unreliable old carriages.",
+                "Not enough passengers in winter."
+              ],
+              "answer": 1,
+              "explanation": "'Old carriages which break down, leading to delays and angry reviews.'"
+            },
+            {
+              "id": "b2s1-r1-6",
+              "kind": "choice",
+              "prompt": "What is Clara Weiss's attitude to the future?",
+              "options": [
+                "She expects night trains to replace most flights.",
+                "She is hopeful, while accepting there is more to do.",
+                "She thinks progress depends on passengers, not governments."
+              ],
+              "answer": 1,
+              "explanation": "She is 'optimistic' but says 'we are not there yet' and does not want to replace every flight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "instructions": "Six sentences have been removed from the text. Choose the correct sentence (A to G) for each gap. There is one extra sentence you do not need.",
+      "passage": "Bees on the roof\n\nWhen Hannah Okafor put two beehives on the roof of her London office block five years ago, her colleagues thought she had lost her mind. [1] Today the building has twelve hives, a waiting list of staff who want to help, and its own brand of honey, which sells out every autumn.\n\nOkafor is part of a boom in urban beekeeping. In some European cities, the number of registered hives has more than doubled in a decade. [2] Gardens, parks and even balconies offer a wider variety of flowers than many farms, where a single crop may cover hundreds of hectares and chemical sprays are common.\n\nHowever, not everyone is delighted. Some scientists warn that the trend may be doing more harm than good. [3] Wild bees, of which there are hundreds of species, depend on the same flowers. If too many honeybee hives are placed in one area, the wild bees may simply not find enough food.\n\nOkafor takes the criticism seriously. [4] Instead, her company now spends part of the money from honey sales on planting wildflowers in nearby streets and schools. 'If you want to help bees,' she says, 'plant things first and keep hives second.'\n\nThere are practical challenges, too. Hives need checking every week in spring and summer, and a strong wind on a rooftop can be dangerous for both bees and beekeeper. [5] For this reason, most city beekeeping associations now insist that beginners complete a course before they buy their first colony.\n\nFor Okafor, the greatest benefit has been unexpected. [6] 'People who had worked on different floors for years started talking to each other on the roof,' she says. 'The bees did more for our office than any team-building day.'",
+      "selectOptions": [
+        { "key": "A", "label": "Few people realise how much work is involved, and some new beekeepers give up after a single season." },
+        { "key": "B", "label": "Most of them had never seen a bee up close, and several were worried about being stung." },
+        { "key": "C", "label": "It turns out that cities can be surprisingly good places for bees." },
+        { "key": "D", "label": "The problem is that honeybees are not the only insects that need flowers." },
+        { "key": "E", "label": "It has nothing to do with honey at all." },
+        { "key": "F", "label": "Honey from city hives is usually more expensive than honey from the countryside." },
+        { "key": "G", "label": "She has decided not to add any more hives to the roof." }
+      ],
+      "groups": [
+        {
+          "id": "r2-1",
+          "questions": [
+            { "id": "b2s1-r2-1", "kind": "select", "prompt": "Gap 1", "answer": "B", "explanation": "B describes the colleagues' reaction, following 'thought she had lost her mind'." },
+            { "id": "b2s1-r2-2", "kind": "select", "prompt": "Gap 2", "answer": "C", "explanation": "C introduces the idea that cities suit bees, which the next sentence explains with gardens and parks." },
+            { "id": "b2s1-r2-3", "kind": "select", "prompt": "Gap 3", "answer": "D", "explanation": "D explains the scientists' concern and leads into 'Wild bees... depend on the same flowers'." },
+            { "id": "b2s1-r2-4", "kind": "select", "prompt": "Gap 4", "answer": "G", "explanation": "G is followed by 'Instead', showing what she does rather than adding hives." },
+            { "id": "b2s1-r2-5", "kind": "select", "prompt": "Gap 5", "answer": "A", "explanation": "A continues the practical challenges and explains why courses are now required." },
+            { "id": "b2s1-r2-6", "kind": "select", "prompt": "Gap 6", "answer": "E", "explanation": "E sets up the surprise benefit, which turns out to be people talking to each other." }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "instructions": "Read the four texts about volunteering abroad. For each question, choose which text (A, B, C or D) gives the answer. You can use each text more than once.",
+      "texts": [
+        {
+          "key": "A",
+          "title": "Email from Priya",
+          "body": "Hi Sam,\n\nThree weeks in and I'm finally getting used to waking up at five! The turtle project is harder work than I imagined. We patrol the beach every night during nesting season, and I've been bitten by more insects than I can count. But last night we watched forty baby turtles reach the sea, and I honestly cried.\n\nThe other volunteers are mostly students, although there's a retired couple from Canada who are the fittest people here. My only complaint is the food. Rice and beans every single day. I'd do anything for a pizza.\n\nWrite soon,\nPriya"
+        },
+        {
+          "key": "B",
+          "title": "Advert: Global Hands",
+          "body": "Make a difference this summer with Global Hands! We offer two to twelve-week placements in teaching, conservation and healthcare in over twenty countries. No experience is necessary. Every volunteer receives a full day of online training before departure and has a local coordinator available twenty-four hours a day.\n\nPrices start at £950 for two weeks and include accommodation, meals and airport transfers. Flights are not included. Book before 31 March and receive a 10% discount. Volunteers must be aged eighteen or over."
+        },
+        {
+          "key": "C",
+          "title": "Article: Is voluntourism really helping?",
+          "body": "Every year, thousands of well-meaning young people pay to spend a few weeks volunteering abroad. But critics argue that short placements can do real damage. Children in orphanages, for example, may become attached to a series of volunteers who then disappear. Building projects carried out by unskilled visitors sometimes have to be redone by local workers, who could have been paid to do the job in the first place.\n\nThat does not mean nobody should volunteer. Experts suggest choosing placements of at least three months, avoiding any work with young children, and asking organisations exactly how much of the fee reaches the local community."
+        },
+        {
+          "key": "D",
+          "title": "Review: Coastal Futures Trust",
+          "body": "I spent six months with Coastal Futures Trust after finishing university, and I can't recommend them highly enough. Unlike some larger companies, they publish a full breakdown of where volunteers' money goes, and almost all the project leaders are local marine biologists.\n\nThe accommodation is basic, with shared rooms and cold showers, so it's not for everyone. But the training was excellent, and I've since used the experience to get a job in environmental research. My one criticism is that the office in the UK was slow to answer emails before I left."
+        }
+      ],
+      "selectOptions": [
+        { "key": "A", "label": "A" },
+        { "key": "B", "label": "B" },
+        { "key": "C", "label": "C" },
+        { "key": "D", "label": "D" }
+      ],
+      "groups": [
+        {
+          "id": "r3-1",
+          "questions": [
+            { "id": "b2s1-r3-1", "kind": "select", "prompt": "Which text mentions a reduced price for booking early?", "answer": "B" },
+            { "id": "b2s1-r3-2", "kind": "select", "prompt": "Which writer describes an emotional moment?", "answer": "A" },
+            { "id": "b2s1-r3-3", "kind": "select", "prompt": "Which text says that volunteers' work may need to be repeated?", "answer": "C" },
+            { "id": "b2s1-r3-4", "kind": "select", "prompt": "Which writer says volunteering helped their career?", "answer": "D" },
+            { "id": "b2s1-r3-5", "kind": "select", "prompt": "Which text advises people to find out where their money goes?", "answer": "C" },
+            { "id": "b2s1-r3-6", "kind": "select", "prompt": "Which writer complains about meals?", "answer": "A" },
+            { "id": "b2s1-r3-7", "kind": "select", "prompt": "Which text mentions support being available at any time?", "answer": "B" }
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "instructions": "Read the text and answer the questions. Write a short answer (one to five words) for each question.",
+      "passage": "The woman who counted the birds\n\nEdith Marlowe was born in 1921 in a small fishing village on the north-east coast of Scotland. Her father ran the village shop, and her mother taught at the local school, where Edith was a quiet pupil who preferred being outdoors to sitting at a desk. At the age of nine, she was given a pair of binoculars by her uncle, a sailor, and she began recording every bird she saw in a notebook she kept under her bed.\n\nWhen she left school, there were few opportunities for young women in science. Edith worked for eleven years as a clerk at a shipping company in Aberdeen, spending every weekend walking along the cliffs. Over time, her notebooks became remarkably detailed. She recorded not only which species she saw, but also the weather, the time of day and how many birds were nesting.\n\nIn 1953, a professor from the University of Edinburgh happened to read a short letter she had written to a local newspaper about the decline of puffins on the coast. He contacted her and asked to see her records. He was astonished to find more than twenty years of careful observations, which nobody else had collected. With his support, she was given a part-time research post, and in 1961 she published her first book, Cliffs and Wings, which became an unexpected bestseller.\n\nEdith's records later proved extremely valuable. In the 1980s, scientists studying the effect of rising sea temperatures used her data to show how seabird populations had changed over half a century. She was awarded an honorary degree in 1987, although she joked that she had 'never passed an exam in her life'.\n\nShe continued counting birds until she was eighty-five. When she died in 2009, she left all of her notebooks, more than three hundred of them, to the university, where they are still used by students today.",
+      "groups": [
+        {
+          "id": "r4-1",
+          "questions": [
+            { "id": "b2s1-r4-1", "kind": "text", "prompt": "What was Edith's mother's job?", "accepted": ["teacher", "a teacher", "she taught", "she taught at the local school", "school teacher", "schoolteacher"] },
+            { "id": "b2s1-r4-2", "kind": "text", "prompt": "Who gave Edith her first binoculars?", "accepted": ["her uncle", "uncle", "her uncle a sailor", "a sailor"] },
+            { "id": "b2s1-r4-3", "kind": "text", "prompt": "How long did Edith work at the shipping company?", "accepted": ["eleven years", "11 years", "for eleven years", "for 11 years"] },
+            { "id": "b2s1-r4-4", "kind": "text", "prompt": "Apart from the species, the time of day and the number of nesting birds, what did Edith record?", "accepted": ["the weather", "weather"] },
+            { "id": "b2s1-r4-5", "kind": "text", "prompt": "How did the professor first find out about Edith?", "accepted": ["a letter to a newspaper", "her letter to a local newspaper", "from a newspaper letter", "he read her letter", "through a letter in a newspaper", "a letter in a local newspaper", "letter to the newspaper"] },
+            { "id": "b2s1-r4-6", "kind": "text", "prompt": "What were scientists studying when they used her data in the 1980s?", "accepted": ["rising sea temperatures", "the effect of rising sea temperatures", "sea temperatures", "effect of rising sea temperatures on seabirds"] },
+            { "id": "b2s1-r4-7", "kind": "text", "prompt": "Where are Edith's notebooks now?", "accepted": ["at the university", "the university", "university", "university of edinburgh", "at the university of edinburgh"] }
+          ]
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "task": 1,
+      "register": "formal",
+      "instructions": "You have read the notice below in your local newspaper. Write a letter to Councillor Reid giving your opinion.\n\nIn your letter:\n• say how you and others use the swimming pool\n• explain what effect closing it would have on the community\n• suggest another way the council could save money\n\nWrite 100 to 150 words.",
+      "input": "PUBLIC NOTICE: Riverside Swimming Pool\n\nThe council plans to close Riverside Swimming Pool in December to reduce costs. The site will be turned into a car park for the new shopping centre. Residents who wish to comment should write to Councillor James Reid, Town Hall, before 30 November."
+    },
+    {
+      "task": 2,
+      "register": "informal",
+      "instructions": "Your friend Alex is coming to visit your town or city for the first time next month and has asked for your advice. Write an email to Alex.\n\nIn your email:\n• recommend two or three places Alex should visit and say why\n• give some advice about getting around\n• suggest something you could do together\n\nWrite 150 to 200 words."
+    }
+  ]
+}
